@@ -106,7 +106,7 @@ function Experience() {
                           key={technology}
                           className="experience-tech"
                         >
-                          {technology},
+                          {technology}
                         </span>
                       ))}
                     </div>
