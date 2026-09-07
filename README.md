@@ -4,7 +4,7 @@ Personal portfolio website built with **React JS** and **Vite** to showcase my b
 
 ## 🌐 Live Website
 
-> Coming soon — deployed with Netlify
+> https://myportofolio-doni.netlify.app/
 
 ## 👨‍💻 About
 
