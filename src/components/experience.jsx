@@ -2,7 +2,7 @@ function Experience() {
   const experiences = [
     {
       id: 1,
-      position: "Web Developer / IT Intern",
+      position: "Web Developer Intern",
       company: "Dinas Komunikasi dan Informatika",
       period: "Maret 2025 – Juli 2025",
       description:
@@ -106,7 +106,7 @@ function Experience() {
                           key={technology}
                           className="experience-tech"
                         >
-                          {technology},
+                          {technology}
                         </span>
                       ))}
                     </div>

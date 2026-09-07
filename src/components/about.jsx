@@ -23,17 +23,15 @@ function About() {
 
                 <p className="text-secondary mb-4">
                   Saya merupakan lulusan S1 Teknik Informatika yang
-                  memiliki ketertarikan pada pengembangan perangkat
-                  lunak, teknologi informasi, jaringan komputer, dan
-                  sistem informasi.
+                  memiliki ketertarikan pada pengembangan web, database, 
+                  jarigan komputer, dan IT Support.
                 </p>
 
                 <p className="text-secondary mb-4">
-                  Selama kuliah, saya mempelajari berbagai bidang
+                  Selama kuliah, saya mempelajari berbagai bidang dan matkul
                   seperti pemrograman web, basis data, rekayasa
                   perangkat lunak, jaringan komputer, sistem operasi,
-                  mobile development, serta pengembangan sistem
-                  informasi.
+                  mobile development, serta cloud computing dan DBMS.
                 </p>
 
                 <p className="text-secondary mb-4">
@@ -76,7 +74,7 @@ function About() {
                       </h3>
 
                       <small className="text-secondary">
-                        Pengalaman Magang
+                        Pengalaman Magang 
                       </small>
                     </div>
                   </div>

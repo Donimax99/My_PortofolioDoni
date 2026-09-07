@@ -14,8 +14,7 @@ function Education() {
           </h2>
 
           <p className="text-secondary mx-auto mb-0" style={{ maxWidth: "600px" }}>
-            Perjalanan pendidikan yang membentuk dasar pengetahuan dan
-            keterampilan saya di bidang teknologi informasi.
+            Riwayat Pendidikan 
           </p>
         </div>
 
@@ -53,10 +52,9 @@ function Education() {
                     </h4>
 
                     <p className="text-secondary small mb-0 lh-lg">
-                      Mempelajari pengembangan perangkat lunak, pemrograman web,
-                      basis data, jaringan komputer, rekayasa perangkat lunak,
-                      mobile development, sistem operasi, serta berbagai
-                      teknologi informasi.
+                    Mempelajari berbagai bidang dan matkul seperti pemrograman web, basis data, rekayasa
+                  perangkat lunak, jaringan komputer, sistem operasi,
+                  mobile development, serta cloud computing dan DBMS.
                     </p>
 
                   </div>
@@ -117,9 +115,8 @@ function Education() {
                     </h4>
 
                     <p className="text-secondary small mb-0 lh-lg">
-                      Mempelajari dasar-dasar jaringan komputer, pemrograman,
-                      administrasi sistem, keamanan jaringan, serta pengembangan
-                      perangkat lunak.
+                      Mempelajari dasar-dasar jaringan komputer seperti subnetting, vlan, DHCP, IP Address topologi jaringan, 7 layer protocol dll, 
+                      pemrograman HTML dan php dasar, macam-macam perangkat jaringan, penginstalan sistem operasi serta crimping kabel LAN RJ45.
                     </p>
 
                   </div>

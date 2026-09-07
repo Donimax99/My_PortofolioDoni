@@ -41,7 +41,8 @@ function Skills() {
         { name: "Postman", icon: "devicon-postman-plain" },
         { name: "Figma", icon: "devicon-figma-plain" },
         { name: "XAMPP", icon: "devicon-xampp-plain" },
-        { name: "Laragon", icon: "devicon-laragon-plain" }
+        { name: "Laragon", icon: "devicon-laragon-plain" },
+        { name: "Composer", icon: "devicon-composer-plain" },
       ]
     },
     {
@@ -49,13 +50,15 @@ function Skills() {
       skills: [
         { name: "Jaringan Komputer", icon: "devicon-networking-plain" },
         { name: "Troubleshooting", icon: "devicon-tools-plain" },
-        { name: "Mikrotik", icon: "devicon-mikrotik-plain" }
+        { name: "Mikrotik", icon: "devicon-mikrotik-plain" },
+        { name: "Subnetting", icon: "devicon-cisco-plain" },
+        { name: "TCP/IP", icon: "devicon-cisco-plain" }
       ]
     }
   ];
 
   return (
-    <section id="skills" className="py-5 section-gray">
+    <section id="skills" className="py-3 section-gray">
       <div className="container py-4">
 
         {/* Judul */}
@@ -69,7 +72,8 @@ function Skills() {
           </h2>
 
           <p className="text-secondary mt-3">
-            Teknologi dan tools yang saya pelajari dan gunakan.
+            Berikut adalah beberapa keahlian yang saya miliki dalam bidang pemrograman, <br />
+            pengembangan web, basis data, dan jaringan komputer, beserta tools yang saya pelajari dan gunakan.
           </p>
         </div>
 
