@@ -114,6 +114,8 @@ function Education() {
                       SMK Nusantara 1 Comal
                     </h4>
                     <p className="text-secondary small mb-0 lh-lg">
+                      Mempelajari dasar-dasar jaringan komputer seperti subnetting, vlan, DHCP, IP Address topologi jaringan, 7 layer protocol dll, 
+                      pemrograman HTML dan php dasar, macam-macam perangkat jaringan, penginstalan sistem operasi serta crimping kabel LAN RJ45.
                       Mempelajari dasar-dasar jaringan komputer, pemrograman,
                       administrasi sistem, keamanan jaringan, serta pengembangan
                       perangkat lunak.
